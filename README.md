@@ -1,6 +1,6 @@
 # Firefox Add-on: Disable Animated Images (WebExtension)
 
-<img src="logo.png" alt="Logo" width="200" border="0" />
+<img src="logo.png" alt="Logo" width="256" border="0" />
 
 ## Description
 
