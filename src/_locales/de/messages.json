@@ -2,6 +2,9 @@
   "browser_action_title": {
     "message": "Deaktiviere animierte Bilder"
   },
+  "enable_badge": {
+    "message": "Badge aktivieren"
+  },
   "extension_description": {
     "message": "Disable Animated Images ermöglicht es, animierte Bilder auf Webseiten zu deaktivieren."
   },
