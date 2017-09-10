@@ -13,16 +13,17 @@ const utils = {
       switch (behaviour.value) {
         case 'once':
           browser.browserAction.setBadgeBackgroundColor({ color : '#ff9400' });
+          browser.browserAction.setBadgeText({ text : '●' });
           break;
         case 'none':
           browser.browserAction.setBadgeBackgroundColor({ color : '#ff0039' });
+          browser.browserAction.setBadgeText({ text : '■' });
           break;
         case 'normal':
         default:
           browser.browserAction.setBadgeBackgroundColor( {color : '#30e60b' });
+          browser.browserAction.setBadgeText({ text : '▶' });
       }
-
-      browser.browserAction.setBadgeText({ text : ' ' });
     }
     else {
       browser.browserAction.setBadgeText({ text : '' });
