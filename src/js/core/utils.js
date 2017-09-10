@@ -21,7 +21,7 @@ const utils = {
           break;
         case 'normal':
         default:
-          browser.browserAction.setBadgeBackgroundColor( {color : '#30e60b' });
+          browser.browserAction.setBadgeBackgroundColor( {color : '#12bc00' });
           browser.browserAction.setBadgeText({ text : '▶' });
       }
     }
