@@ -6,7 +6,7 @@
 
 **Disable Animated Images allows you to disable animated images on web sites.**
 
-**New Tab Override is a WebExtension and also compatible with Firefox 57 and later.**
+**Disable Animated Images is a WebExtension and also compatible with Firefox 57 and later.**
 
 ### Features
 
