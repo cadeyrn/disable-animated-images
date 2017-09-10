@@ -6,7 +6,7 @@
     "message": "enable badge"
   },
   "extension_description": {
-    "message": "Disable Animated Images allows you to disable animated images on web sites."
+    "message": "Disable Animated Images allows you to disable animated images on websites."
   },
   "extension_name": {
     "message": "Disable Animated Images"
@@ -15,7 +15,7 @@
     "message": "Behaviour of animated images"
   },
   "panel_info": {
-    "message": "This setting controls the behaviour of image animation in the browser."
+    "message": "This setting controls the behaviour of animated images on websites."
   },
   "setting_none": {
     "message": "disable animations"

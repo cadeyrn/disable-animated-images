@@ -4,7 +4,7 @@
 
 ## Description
 
-**Disable Animated Images allows you to disable animated images on web sites.**
+**Disable Animated Images allows you to disable animated images on websites.**
 
 **Disable Animated Images is a WebExtension and also compatible with Firefox 57 and later.**
 

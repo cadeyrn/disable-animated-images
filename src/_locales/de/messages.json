@@ -15,7 +15,7 @@
     "message": "Verhalten animierter Bilder"
   },
   "panel_info": {
-    "message": "Diese Einstellung kontrolliert das Verhalten animierter Bilder im Browser."
+    "message": "Diese Einstellung kontrolliert das Verhalten animierter Bilder auf Webseiten."
   },
   "setting_none": {
     "message": "deaktiviere Animationen"
