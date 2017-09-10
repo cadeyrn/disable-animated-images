@@ -34,7 +34,7 @@ WebExtension APIs, support for older versions of Firefox is not possible for tec
 
 ## Download
 
-[Download New Tab Override](https://addons.mozilla.org/en-US/firefox/addon/xxx/)
+[Download Disable Animated Images](https://addons.mozilla.org/en-US/firefox/addon/xxx/)
 
 ## Release Notes
 
