@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * @exports newtaboverride
+ * @exports popup
  */
 const popup = {
   async init () {
@@ -11,3 +11,9 @@ const popup = {
 };
 
 popup.init();
+
+[...document.querySelectorAll('input[name=behaviour')].forEach(function (el) {
+  el.addEventListener('change', (e) => {
+    browser.browserSettings.imageAnimationBehavior.set({ value : e.target.value });
+  });
+});
