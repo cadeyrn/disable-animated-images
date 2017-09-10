@@ -10,3 +10,8 @@
 .panel-content {
   padding: 5px 30px 15px;
 }
+
+.behaviour-container label {
+  display: inline-block;
+  margin-bottom: 5px;
+}
