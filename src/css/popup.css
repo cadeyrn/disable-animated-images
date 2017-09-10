@@ -1,0 +1,12 @@
+.icon-section-header {
+  float: left;
+  margin-right: 10px;
+  width: 22px;
+  height: 22px;
+  background-image: url('../images/icon.svg');
+  background-size: 22px 22px;
+}
+
+.panel-content {
+  padding: 5px 30px 15px;
+}

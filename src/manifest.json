@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extension_name__",
+  "version": "1.0.0",
+  "description": "__MSG_extension_description__.",
+  "icons": {
+    "48": "images/icon.svg",
+    "96": "images/icon.svg"
+  },
+  "developer": {
+    "name": "Sören Hentzschel",
+    "url": "https://www.soeren-hentzschel.at/firefox-webextensions/disable-animated-images/"
+  },
+  "browser_action": {
+    "browser_style": true,
+    "default_area": "navbar",
+    "default_icon": "images/icon.svg",
+    "default_popup": "html/popup.html",
+    "default_title": "__MSG_browser_action_title__"
+  },
+  "permissions": [
+    "browserSettings"
+  ],
+  "default_locale": "en",
+  "applications": {
+    "gecko": {
+      "id": "disable-animated-images@agenedia.com",
+      "strict_min_version": "57.0"
+    }
+  }
+}

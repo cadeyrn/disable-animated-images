@@ -1,0 +1,26 @@
+{
+  "browser_action_title": {
+    "message": "Deaktiviere animierte Bilder"
+  },
+  "extension_description": {
+    "message": "Disable Animated Images ermöglicht es, animierte Bilder auf Webseiten zu deaktivieren."
+  },
+  "extension_name": {
+    "message": "Disable Animated Images"
+  },
+  "panel_header": {
+    "message": "Verhalten animierter Bilder"
+  },
+  "panel_info": {
+    "message": "Diese Einstellung kontrolliert das Verhalten animierter Bilder im Browser."
+  },
+  "setting_none": {
+    "message": "deaktiviere Animationen"
+  },
+  "setting_normal": {
+    "message": "animiere Bilder (Standard)"
+  },
+  "setting_once": {
+    "message": "animiere nur einmal"
+  }
+}

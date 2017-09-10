@@ -1,0 +1,26 @@
+{
+  "browser_action_title": {
+    "message": "Disable Animated Images"
+  },
+  "extension_description": {
+    "message": "Disable Animated Images allows you to disable animated images on web sites."
+  },
+  "extension_name": {
+    "message": "Disable Animated Images"
+  },
+  "panel_header": {
+    "message": "Behaviour of animated images"
+  },
+  "panel_info": {
+    "message": "This setting controls the behaviour of image animation in the browser."
+  },
+  "setting_none": {
+    "message": "disable animations"
+  },
+  "setting_normal": {
+    "message": "animate images (default)"
+  },
+  "setting_once": {
+    "message": "animate only once"
+  }
+}
