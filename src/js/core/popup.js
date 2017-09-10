@@ -1,5 +1,7 @@
 'use strict';
 
+/* global utils */
+
 /**
  * @exports popup
  */
@@ -21,5 +23,6 @@ popup.init();
 [...document.querySelectorAll('input[name=behaviour')].forEach(function (el) {
   el.addEventListener('change', (e) => {
     browser.browserSettings.imageAnimationBehavior.set({ value : e.target.value });
+    utils.setBadge();
   });
 });

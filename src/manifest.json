@@ -11,6 +11,9 @@
     "name": "Sören Hentzschel",
     "url": "https://www.soeren-hentzschel.at/firefox-webextensions/disable-animated-images/"
   },
+  "background": {
+    "scripts": ["js/core/utils.js", "js/core/background.js"]
+  },
   "browser_action": {
     "browser_style": true,
     "default_area": "navbar",
