@@ -1,0 +1,29 @@
+{
+  "browser_action_title": {
+    "message": "Désactiver Images Animées"
+  },
+  "enable_badge": {
+    "message": "Activer le badge"
+  },
+  "extension_description": {
+    "message": "Désactiver les images animées vous permet de désactiver les images animées sur les sites Web."
+  },
+  "extension_name": {
+    "message": "Désactiver Images Animées"
+  },
+  "panel_header": {
+    "message": "Comportement des images animées"
+  },
+  "panel_info": {
+    "message": "Ce paramètre contrôle le comportement des images animées sur les sites Web."
+  },
+  "setting_none": {
+    "message": "désactiver animations"
+  },
+  "setting_normal": {
+    "message": "images animées (par default)"
+  },
+  "setting_once": {
+    "message": "n\'animer qu'une seule fois"
+  }
+}
